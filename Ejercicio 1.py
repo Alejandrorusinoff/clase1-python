@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-
+# aprendiendo  git hub
 import math 
 a=9
 b=7
